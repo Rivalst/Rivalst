@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Bohdan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Softwaare Enginee, Flutter developer</h3>![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<h3 align="center">Softwaare Enginee, Flutter developer</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Rivalst/Rivalst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
