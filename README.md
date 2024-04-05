@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Softwaare Enginee, Flutter developer</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivalst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <!--
 **Rivalst/Rivalst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
