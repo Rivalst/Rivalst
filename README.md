@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bohdan</a> 
+<h1 align="center">Hi, nice to meet you =) I'm Bohdan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Enginee, Flutter developer</h3> 
 
